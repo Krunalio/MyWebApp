@@ -1,4 +1,4 @@
-# Project Title
+# <b>Project Title</b>
 
 The project idea it's a Web Page dinamical and responsive where the users can modify variables, styles and content of each own page.
 This projects it's made with ❤️🤟🏻  
@@ -85,7 +85,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## Acknowledgments
+## <h1> Acknowledgments</h1>
 
 * Hat tip to anyone whose code was used
 * Inspiration
